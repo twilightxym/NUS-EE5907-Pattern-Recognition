@@ -10,5 +10,5 @@ Assignments for EE5907 AY24/25 Sem1, including 2 projects:
 * Language: Python, Dataset: CMU PIE images
 * Apply PCA for dimensionality reduction and visualization
 * Train and apply three classification models to classify the face images: LDA, SVM, CNN
-* Clustering model -- GMM to group the face images
+* (Opitonal) Clustering model -- GMM to group the face images
 
